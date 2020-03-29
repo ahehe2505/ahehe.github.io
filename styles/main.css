@@ -993,6 +993,10 @@ td {
       }
     
       .main {
-        background: #868e96;
+        background: #CCEEFF;
+      }
+    
+      body {
+        background: #212529;
       }
     
