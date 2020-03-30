@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-03-30T04:59:10.499Z</updated>
+    <updated>2020-03-30T05:24:21.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
-    <subtitle>good good study day day up</subtitle>
+    <subtitle>good good study day day up
+</subtitle>
     <logo>https://ahehe2505.github.io/ahehe.github.io/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/ahehe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
