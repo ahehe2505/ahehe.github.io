@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-03-31T00:17:14.008Z</updated>
+    <updated>2020-03-31T11:13:15.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://ahehe2505.github.io/ahehe.github.io/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/ahehe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-4-1热评句子]]></title>
+        <id>https://ahehe2505.github.io/ahehe.github.io/post/2020-4-1-re-ping-ju-zi/</id>
+        <link href="https://ahehe2505.github.io/ahehe.github.io/post/2020-4-1-re-ping-ju-zi/">
+        </link>
+        <updated>2020-03-31T11:02:02.000Z</updated>
+        <content type="html"><![CDATA[<p><font size=7 face="幼圆">烂</font>泥本来就应该在地上，烂泥本来就不是为上墙而出现的，烂泥在地上呵护着花草，供养着生物，为什么一定要去上墙呢？？？？就为了被呼在墙上的那一下，而后被挤压抹平，变成另外一个只需要表现而不需要实用的附作物，在经历风吹日晒后，脱离了墙体，重新变为烂泥，再次等待上墙？？？？？？</p>
+<center>投稿</center>]]></content>
+    </entry>
 </feed>
