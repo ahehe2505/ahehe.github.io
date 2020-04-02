@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-02T13:09:36.605Z</updated>
+    <updated>2020-04-02T13:25:00.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
@@ -18,7 +18,7 @@
         <updated>2020-04-02T12:58:36.000Z</updated>
         <content type="html"><![CDATA[<center>
 <centre>手机观看</center><center><br><embed src="https://gitee.com/ahehe2505/one/raw/master/%E7%89%A9%E7%90%86%E6%9C%80%E7%BB%88%E7%89%88.pdf"></embed></center>
-<centre>电脑观看<embed src="https://gitee.com/ahehe2505/one/raw/master/%E7%89%A9%E7%90%86%E6%9C%80%E7%BB%88%E7%89%88.pdf" width="700" height="800" ></embed><center>
+<centre>电脑观看<embed src="https://gitee.com/ahehe2505/one/raw/master/%E7%89%A9%E7%90%86%E6%9C%80%E7%BB%88%E7%89%88.pdf" width="700" height="1000" ></embed><center>
 </center>]]></content>
     </entry>
     <entry>
