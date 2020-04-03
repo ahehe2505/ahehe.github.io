@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-03T01:42:30.823Z</updated>
+    <updated>2020-04-03T02:22:47.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ahehe2505.github.io/ahehe.github.io/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/ahehe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[中考语文]]></title>
+        <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-yu-wen/</id>
+        <link href="https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-yu-wen/">
+        </link>
+        <updated>2020-04-03T02:20:25.000Z</updated>
+        <content type="html"><![CDATA[<center>
+<img src="https://gitee.com/ahehe2505/one/raw/a11255999893ef16316f8361d64fb7643f54b110/%E8%AF%AD%E6%96%871.JPG"  /> 
+<img src="https://gitee.com/ahehe2505/one/raw/3231c1d2d4ea4b2f9d9e1900a52c7b8542447a95/%E8%AF%AD%E6%96%872.JPG"  /> 
+</center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中考英语复习]]></title>
         <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-ying-yu-fu-xi/</id>
