@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-03T02:22:47.997Z</updated>
+    <updated>2020-04-03T02:44:55.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://ahehe2505.github.io/ahehe.github.io/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/ahehe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[中考数学]]></title>
+        <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-shu-xue/</id>
+        <link href="https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-shu-xue/">
+        </link>
+        <updated>2020-04-03T02:43:12.000Z</updated>
+        <content type="html"><![CDATA[<center>
+<img src="https://gitee.com/ahehe2505/one/raw/0e6ec776cd09d0007f832bb833980b65d3806997/040310405725_0IMG_0467(20200403-103426).JPG"  /> 
+</center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中考语文]]></title>
         <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-yu-wen/</id>
