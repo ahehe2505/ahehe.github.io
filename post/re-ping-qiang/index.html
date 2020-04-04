@@ -1,0 +1,164 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>热评墙 | ahehe的blog</title>
+<link rel="shortcut icon" href="https://ahehe2505.github.io/ahehe.github.io//favicon.ico?v=1585983660832">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://ahehe2505.github.io/ahehe.github.io//styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="热评墙 | ahehe的blog - Atom Feed" href="https://ahehe2505.github.io/ahehe.github.io//atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="#这个故事从未停止
+#2020-4-4
+求而不得是一种什么样的感觉？” “那个人的眉头，连着你的心脏。
+#2020-4-3
+你和我的关系，大概就像上海的南京路和南京的上海路吧，看似亲密无间，实则毫无关联
+#2020-4-2
+作为一个乐观的人..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://ahehe2505.github.io/ahehe.github.io/">
+  <img class="avatar" src="https://ahehe2505.github.io/ahehe.github.io//images/avatar.png?v=1585983660832" alt="">
+  </a>
+  <h1 class="site-title">
+    ahehe的blog
+  </h1>
+  <p class="site-description">
+    good good study day day up
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="https://ahehe2505.github.io/ahehe.github.io/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="http://ah_ha.gitee.io/ahehe-zkdjs/" class="menu">
+          中考倒计时
+        </a>
+      
+    
+      
+        <a href="https://wj.qq.com/s2/5761832/95c3/" class="menu">
+          投稿
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              热评墙
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-04-04
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>#这个故事从未停止<br>
+#2020-4-4<br>
+求而不得是一种什么样的感觉？” “那个人的眉头，连着你的心脏。<br>
+#2020-4-3<br>
+你和我的关系，大概就像上海的南京路和南京的上海路吧，看似亲密无间，实则毫无关联<br>
+#2020-4-2<br>
+作为一个乐观的人在别人眼中是什么样子的？大概就是你上吊快死了，别人都认为你在荡秋千<br>
+#2020-4-1<br>
+从小到大的数学考试， 每当我遇道难题， 我会停下来仔细算算， 我整张卷子能考多少分</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+
+        <div class="site-footer">
+  
+  <a class="rss" href="https://ahehe2505.github.io/ahehe.github.io//atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

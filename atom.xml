@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-03T02:52:40.863Z</updated>
+    <updated>2020-04-04T07:01:03.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
@@ -11,63 +11,20 @@
     <icon>https://ahehe2505.github.io/ahehe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
     <entry>
-        <title type="html"><![CDATA[广东中考安排]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/guang-dong-zhong-kao-an-pai/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/guang-dong-zhong-kao-an-pai/">
+        <title type="html"><![CDATA[热评墙]]></title>
+        <id>https://ahehe2505.github.io/ahehe.github.io/post/re-ping-qiang/</id>
+        <link href="https://ahehe2505.github.io/ahehe.github.io/post/re-ping-qiang/">
         </link>
-        <updated>2020-04-03T02:49:54.000Z</updated>
-        <content type="html"><![CDATA[<center>
-<img src="https://gitee.com/ahehe2505/one/raw/04b7cce1b40455fecf6b1aafe11ce690f75bdd80/040310485251_01%20(2).png"  /> 
-</center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中考数学]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-shu-xue/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-shu-xue/">
-        </link>
-        <updated>2020-04-03T02:43:12.000Z</updated>
-        <content type="html"><![CDATA[<center>
-<img src="https://gitee.com/ahehe2505/one/raw/0e6ec776cd09d0007f832bb833980b65d3806997/040310405725_0IMG_0467(20200403-103426).JPG"  /> 
-</center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中考语文]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-yu-wen/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-yu-wen/">
-        </link>
-        <updated>2020-04-03T02:20:25.000Z</updated>
-        <content type="html"><![CDATA[<center>
-<img src="https://gitee.com/ahehe2505/one/raw/a11255999893ef16316f8361d64fb7643f54b110/%E8%AF%AD%E6%96%871.JPG"  /> 
-<img src="https://gitee.com/ahehe2505/one/raw/3231c1d2d4ea4b2f9d9e1900a52c7b8542447a95/%E8%AF%AD%E6%96%872.JPG"  /> 
-</center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中考英语复习]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-ying-yu-fu-xi/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-ying-yu-fu-xi/">
-        </link>
-        <updated>2020-04-03T01:35:48.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://note.youdao.com/ynoteshare1/index.html?id=3b22fd4de14f415e3f1e063a20026bab&amp;type=note">点我查看完整版，因为文件太大，可能要缓冲好久，耐心等待</a><br>
-进群下载完整版</p>
+        <updated>2020-04-04T06:57:42.000Z</updated>
+        <content type="html"><![CDATA[<p>#这个故事从未停止<br>
+#2020-4-4<br>
+求而不得是一种什么样的感觉？” “那个人的眉头，连着你的心脏。<br>
+#2020-4-3<br>
+你和我的关系，大概就像上海的南京路和南京的上海路吧，看似亲密无间，实则毫无关联<br>
+#2020-4-2<br>
+作为一个乐观的人在别人眼中是什么样子的？大概就是你上吊快死了，别人都认为你在荡秋千<br>
+#2020-4-1<br>
+从小到大的数学考试， 每当我遇道难题， 我会停下来仔细算算， 我整张卷子能考多少分</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中考物理]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-wu-li/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/zhong-kao-wu-li/">
-        </link>
-        <updated>2020-04-02T12:58:36.000Z</updated>
-        <content type="html"><![CDATA[<center>
-<img src="https://gitee.com/ahehe2505/one/raw/8783da63b46bccb48597f2c01ff0e72eb5f541af/040221534840_01.PNG"  /> 
-</center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-4-3热评句子]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/2020-4-1-re-ping-ju-zi/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/2020-4-1-re-ping-ju-zi/">
-        </link>
-        <updated>2020-03-31T11:02:02.000Z</updated>
-        <content type="html"><![CDATA[<p><font size=7 face="幼圆">“突</font>然不喜欢一个人，是什么感觉？”“他原本浑身是光，有那么一瞬间，突然黯淡了，我努力回想他浑身是光的样子，却怎么也想不起来。后来才发现，那是我第一次见到他时，我眼里的光”</p>
-<center>投稿</center>]]></content>
     </entry>
 </feed>
