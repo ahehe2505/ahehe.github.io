@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/ahehe.github.io/</id>
     <title>ahehe的blog</title>
-    <updated>2020-04-04T11:52:55.883Z</updated>
+    <updated>2020-04-04T11:54:05.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe2505.github.io/ahehe.github.io/atom.xml"/>
@@ -10,91 +10,4 @@
     <logo>https://ahehe2505.github.io/ahehe.github.io/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/ahehe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ahehe的blog</rights>
-    <entry>
-        <title type="html"><![CDATA[动态]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/dong-tai/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/dong-tai/">
-        </link>
-        <updated>2020-04-04T11:52:07.000Z</updated>
-        <content type="html"><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>广场</title>
-<style>
-.h1
-span{border:0px dotted #ccc;}
-.round_icon{
-  width: 34px;
-  height: 34px;
-  display: flex;
-  border-radius: 100%;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
-.wrap {
-/* 可无需设置高度，靠图片高度 或者 文字的上下padding撑开高度 */
-    border: 0px solid;
-    width: 114px;
-    text-align: center;
-}
-.wrap span{
-    display: inline-block;
-    vertical-align: middle;
-    padding: 20px 0; /* 撑开高度 */
-}
-.wrap img{
-    width: 120px;
-    height: auto;
-    vertical-align: middle;
-}
-.left{ float:left; width:19%; height:220px; border:1px solid #F00}
-.right{ float:right; width:80%; height:220px; border:1px solid #F00}
-</style>
-</head>
-<body>
-<center>
-<font size="15" face="幼圆" color="#000000"><h1>动态页</h1></font>
-<center>
-<div class="left"><!--左边 --><div class="wrap"><br><!--头像下面 -->
-<img src="http://q.qlogo.cn/headimg_dl?dst_uin=208947354&spec=640&img_type=jpg" class="round_icon"  alt="出错了" title="手Q208947354" width"100%">手Q208947354
-<span>神话</span></div></div></div></div>
-<div class="right">发个友善的动态见证当下</div>
-<p>
-<div class="left"><div class="wrap"><br><!--头像下面 -->
-<img src="http://q.qlogo.cn/headimg_dl?dst_uin=208947354&spec=640&img_type=jpg" class="round_icon"  alt="出错了" title="手Q208947354" width"100%">手Q208947354
-<span>神话</span></div></div></div></div>
-<div class="right">发个友善的动态见证当下</div>
-</p>
-</conter>
-</body>
-</html>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动态页]]></title>
-        <id>https://ahehe2505.github.io/ahehe.github.io/post/dong-tai-ye/</id>
-        <link href="https://ahehe2505.github.io/ahehe.github.io/post/dong-tai-ye/">
-        </link>
-        <updated>2020-04-04T07:09:11.000Z</updated>
-        <content type="html"><![CDATA[<p>你好呀，发个动态见证当下</p>
-<!--PC和WAP自适应版-->
-<div id="SOHUCS" ></div> 
-<script type="text/javascript"> 
-(function(){ 
-var appid = 'cyuLbXJyb'; 
-var conf = 'prod_4c6d7bc772076760db182db172b47d77'; 
-var width = window.innerWidth || document.documentElement.clientWidth; 
-if (width < 960) {
-var head = document.getElementsByTagName('head')[0]||document.head||document.documentElement;
-var script = document.createElement('script');
-script.type = 'text/javascript';
-script.charset = 'utf-8';
-script.id = 'changyan_mobile_js';
-script.src = 'https://cy-cdn.kuaizhan.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf;
-head.appendChild(script);
-} else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://cy-cdn.kuaizhan.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
-]]></content>
-    </entry>
 </feed>
